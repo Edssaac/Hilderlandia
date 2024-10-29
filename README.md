@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hilderlandia </h1>
-  <img src="https://raw.githubusercontent.com/Edssaac/Hilderlandia/main/Hilderlandia/icon.jpg" width="180" height="180">
+  <img src="./Hilderlandia/icon.jpg" width="180" height="180">
 </div>
 
 <br>
@@ -12,7 +12,7 @@
     seu trabalho gratuitamente na internet.
   </p>
   <div align="center">
-    <img src="https://github.com/Edssaac/Hilderlandia/blob/main/Hilderlandia/apresentacao.gif?raw=true" width="400" height="190" align="center">
+    <img src="./Hilderlandia/apresentacao.gif?raw=true" width="400" height="190" align="center">
   </div>
 </div>
 
@@ -30,3 +30,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edssaac)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edssaac@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:edssaac@outlook.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational)](https://www.linkedin.com/in/edssaac/)
